@@ -13,20 +13,20 @@ export default function App() {
       }}
     >
       <Car
-        nombre="Audi e-tron"
-        modelo="Audi e-tron GT"
-        imagen="https://acroadtrip.blob.core.windows.net/catalogo-imagenes/s/RT_V_d71cdaceff82463c893d1d117fc2802d.jpg"
-        descripcion="Audi e-tron GT 2022 utiliza motores eléctricos en la parte delantera y trasera para generar 469 caballos de fuerza en conducción normal y hasta 522 caballos de fuerza durante 2,5 segundos cuando el control de lanzamiento está activo."
+        nombre="McLaren 650S"
+        modelo="650 S"
+        imagen="https://assets.stickpng.com/thumbs/584c58301fc21103bb375baf.png"
+        descripcion="es un automóvil deportivo diseñado y producido por el fabricante británico McLaren Automotive, de 2014 a 2017. Se anunció en febrero de 2014 como un nuevo modelo, pero basado en el ya existente MP4-12C con un 25% de partes,6​ con el que comparte el chasis de fibra de carbono reforzada con polímero."
         sonido="BEEP BEEP"
-        anio="2022"
+        anio="2014"
       />
       <Car
-        nombre="BMW I4"
-        modelo="BMW I4 2022"
-        imagen="https://img.remediosdigitales.com/ddac4f/bmw-i4-2022-1600-01/450_1000.jpg"
-        descripcion="El BMW i4 eDrive40 2022 es un sedán de tracción trasera de 335 caballos de fuerza y altura baja. El modelo base en la línea, el i4 eDrive40 tiene un precio inicial de 1.1 millones de pesos y un alcance estimado por BMW de hasta 300 millas con una sola carga."
+        nombre="Roewe i6"
+        modelo="i6"
+        imagen="https://assets.stickpng.com/thumbs/5845984fbcb9df443a7fb795.png"
+        descripcion="El Roewe i6 es un compacto sedán producido por SAIC Motor bajo la marca Roewe , sucediendo al Roewe 550 . El Roewe ei6 es la versión híbrida del i6. El Roewe i6 fue presentado por primera vez por el Roewe Vision-R, que debutó durante el Auto Show de Guangzhou 2015 "
         sonido="BEEP BEEP"
-        anio="2022"
+        anio="2015"
       />
     </div>
   );

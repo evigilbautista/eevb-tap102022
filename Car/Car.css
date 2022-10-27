@@ -6,8 +6,12 @@
   background-color: cornflowerblue;
 }
 
+
 .estiloImgCard{
   width: 100%;
   border-radius: 5px 5px 0 0;
+  background-image: url("https://c8.alamy.com/zooms/9/a1461cff9a9b425182760c5bef920396/pm88ab.jpg");
+  background-position: bottom;
+  background-position-y: 0cm
 
 };

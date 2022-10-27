@@ -18,7 +18,7 @@ export default function Car(props) {
 
   const hacerBeep = (sonido) => {
     setBeppeando(!beepeando);
-    return <audio src={sonido} autoPlay />;
+   
 
     //console.log(sonido);
     /*if (props.modelo.includes('C6')) {
@@ -56,7 +56,7 @@ export default function Car(props) {
           )}
           <br />
           <br />
-          <button onClick={() => hacerBeep(props.sonido)}>
+          <button id="botonBeep" onClick={() => hacerBeep(props.sonido)}>
             Hacer beep-beep
           </button>
         </div>
