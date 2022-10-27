@@ -18,6 +18,7 @@ export default function Car(props) {
 
   const hacerBeep = (sonido) => {
     setBeppeando(!beepeando);
+    return <audio src={sonido} autoPlay />;
 
     //console.log(sonido);
     /*if (props.modelo.includes('C6')) {
